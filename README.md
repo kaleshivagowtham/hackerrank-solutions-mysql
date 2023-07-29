@@ -6,7 +6,4 @@ Visit my [Hackerrank Profile](https://www.hackerrank.com/mailongowthu?hr_r=1)
 Visit my [Leetcode Profile](https://leetcode.com/shivakale/)
 
 
-_*Leetcode MySql Solutions*_
-```
-link : https://github.com/kaleshivagowtham/leetcode-solutions-sql
-```
+[_*Leetcode MySql Solutions*_](https://github.com/kaleshivagowtham/leetcode-solutions-sql)
